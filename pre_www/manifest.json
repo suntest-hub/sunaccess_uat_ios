@@ -1,0 +1,13 @@
+{
+  "name": "Sun Access",
+  "short_name": "Sun Access",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/imgs/logo.png",
+    "sizes": "1024×1024",
+    "type": "image/png"
+  }],
+  "background_color": "#ffffff",
+  "theme_color": "#febe10"
+}

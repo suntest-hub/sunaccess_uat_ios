@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protocol</key>
+	<string>https</string>
+	<key>host</key>
+	<string>mobile.31connects.com</string>
+	<key>port</key>
+	<string>443</string>
+	<key>wlServerContext</key>
+	<string>/mfp/</string>
+	<key>platformVersion</key>
+	<string>8.0.0.00-20200628-153423</string>
+	<key>testWebResourcesChecksum</key>
+	<string>false</string>
+	<key>ignoredFileExtensions</key>
+	<string>png, jpg, jpeg, gif, mp4, mp3</string>
+	<key>wlSecureDirectUpdatePublicKey</key>
+	<string></string>
+	<key>buildtime</key>
+	<string>1631017505595</string>
+	<key>languagePreferences</key>
+	<string>en</string>
+	<key>serverUri</key>
+	<string></string>
+	<key>APIProxyURL</key>
+	<string>/adapters/MobileAPIProxy</string>
+</dict>
+</plist>
